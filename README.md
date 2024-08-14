@@ -17,7 +17,7 @@ A model which can evaluate images and alert the dermatologists about the presenc
 - tensorflow
 
 ## Conclusions
-- 
+- The model accuracy on test data is around 50% i.e. the model built is predicting almost half of the data correctly. The model can be improved further with higher number of epochs or with more training data
 
 ## Contact
 Created by [@swarnalisen] - feel free to contact me!
